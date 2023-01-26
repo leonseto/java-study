@@ -9,17 +9,17 @@ Os oito tipos primitivos em Java são:
 
 Tabela de Tipos Primitivos e seus valores:
 
-Tipo    Memória     Valor Mínimo                    Valor Máximo <br>
-byte    1 byte      -128                            127 <br>
-short   2 byte      -32.768                         32.767 <br>
-int     4 bytes     -2.147.483.648                  2.147.483.647
-long    8 bytes     -9.223.372.036.854.775.808      9.223.372.036.854.775.807
+Tipo    Memória     Valor Mínimo                    Valor Máximo               <br>
+byte    1 byte      -128                            127                        <br>
+short   2 byte      -32.768                         32.767                     <br>
+int     4 bytes     -2.147.483.648                  2.147.483.647              <br>
+long    8 bytes     -9.223.372.036.854.775.808      9.223.372.036.854.775.807  <br>
 
 Os tipos primitivos, que podem conter partes fracionárias, podem ser representados por dois tipos:
 
-Tipo    Memória     Mínimo              Máximo          Precisão
-float   4 bytes     -3,4028E + 38       3,4028E + 38    6~7 dígitos
-double  8 bytes     -1,7976E + 308      1,7976E + 308   15 dígitos
+Tipo    Memória     Mínimo              Máximo          Precisão    <br>
+float   4 bytes     -3,4028E + 38       3,4028E + 38    6~7 dígitos <br>
+double  8 bytes     -1,7976E + 308      1,7976E + 308   15 dígitos  <br>
 
 Apesar de o tipo float, ocupar metade da memória consumida do que um tipo double, ele é menos utilizado. Ele sofre de uma limitação que compromete seu uso em determinadas situações: somente mantém uma precisão decimal entre 6 e 7 dígitos.
 
