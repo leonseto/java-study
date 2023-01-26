@@ -9,9 +9,9 @@ Os oito tipos primitivos em Java são:
 
 Tabela de Tipos Primitivos e seus valores:
 
-Tipo    Memória     Valor Mínimo                    Valor Máximo
-byte    1 byte      -128                            127
-short   2 byte      -32.768                         32.767
+Tipo    Memória     Valor Mínimo                    Valor Máximo <br>
+byte    1 byte      -128                            127 <br>
+short   2 byte      -32.768                         32.767 <br>
 int     4 bytes     -2.147.483.648                  2.147.483.647
 long    8 bytes     -9.223.372.036.854.775.808      9.223.372.036.854.775.807
 
